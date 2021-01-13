@@ -1,4 +1,4 @@
-# xiongbo
+# Xiong, Bo
 
 # X Institute Quantum Intelligence Lab
 
