@@ -19,7 +19,7 @@ https://www.jianshu.com/p/9f71e260925d
 
 <br>
 
-<a href="https://jekyllthemes.org">Jekyll Themes</a>
+<a href="http://jekyllthemes.org/">Jekyll Themes</a>
 
 
 
