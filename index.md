@@ -33,7 +33,7 @@ welcome
         		<li><a href="https://github.com/phyxiong">github.com/phyxiong</a></li>
                 <li><a href="http://jekyllcn.com/docs/structure/">jekyll</a></li>
                 <li><a href="https://www.jianshu.com/p/9f71e260925d">xxxx</a></li>
-                <li>http://jekyllcn.com/docs/structure/</li>
+                <li>http://jekyllcn.com/docs/structure/  |  http://jmcglone.com/guides/github-pages/    | https://halfrost.com/jekyll/</li>
 			</ul>
 		</footer>
 
