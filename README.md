@@ -9,8 +9,6 @@ welcome
 
 
 
-https://www.jianshu.com/p/9f71e260925d
-
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
 <a href="https://www.overleaf.com?r=aef8cb5c&rm=d&rs=b">Online LaTeX Editor Overleaf</a>
