@@ -31,8 +31,9 @@ welcome
     		<ul>
         		<li><a href="mailto:stevenxiongbo@gmail.com">email</a></li>
         		<li><a href="https://github.com/phyxiong">github.com/phyxiong</a></li>
-                <li><a href="https://www.jianshu.com/p/9f71e260925d">jekyll</a></li>
-                http://jmcglone.com/guides/github-pages/
+                <li><a href="http://jekyllcn.com/docs/structure/">jekyll</a></li>
+                <li><a href="https://www.jianshu.com/p/9f71e260925d">xxxx</a></li>
+                <li>http://jekyllcn.com/docs/structure/</li>
 			</ul>
 		</footer>
 
