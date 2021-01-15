@@ -7,9 +7,7 @@ welcome
 
 ![My_Pic2](README.assets/My_Pic2.png)
 
-<html>
-<html>
-<body>
+
 
 https://www.jianshu.com/p/9f71e260925d
 
@@ -20,9 +18,3 @@ https://www.jianshu.com/p/9f71e260925d
 <br>
 
 <a href="http://jekyllthemes.org/">Jekyll Themes</a>
-
-
-
-</body>
-</html>
-
