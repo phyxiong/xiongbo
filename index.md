@@ -1,3 +1,12 @@
+# Xiong, Bo
+
+# X Institute Quantum Intelligence Lab
+
+@NCU
+welcome
+
+![My_Pic2](index.assets/My_Pic2.png)
+
 <!DOCTYPE html>
 <html>
 	<head>
