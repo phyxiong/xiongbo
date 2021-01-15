@@ -8,6 +8,7 @@ welcome
 ![My_Pic2](index.assets/My_Pic2.png)
 
 <html>
+
 	<head>
 		<title> X Institute Quantum Intelligence Lab</title>
 	</head>
