@@ -7,15 +7,14 @@ welcome
 
 ![My_Pic2](index.assets/My_Pic2.png)
 
-<!DOCTYPE html>
 <html>
 	<head>
-		<title>Hank Quinlan, Horrible Cop</title>
+		<title> X Institute Quantum Intelligence Lab</title>
 	</head>
-	<body>
+​	<body>
 		<nav>
     		<ul>
-        		<li><a href="/">Home</a></li>
+        		<li><a href="https://github.com/phyxiong">Home</a></li>
 	        	<li><a href="/about">About</a></li>
         		<li><a href="/cv">CV</a></li>
         		<li><a href="/blog">Blog</a></li>
@@ -23,15 +22,15 @@ welcome
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Hi there, I'm Hank Quinlan!</h1>
-				<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+        		<h1>Hi there, I'm Xiong, Bo!</h1>
+				<p>I'm best known as the .... from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
     		<ul>
-        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
+        		<li><a href="mailto:stevenxiongbo@gmail.com">email</a></li>
+        		<li><a href="https://github.com/phyxiong">github.com/phyxiong</a></li>
 			</ul>
 		</footer>
-	</body>
+​	</body>
 </html>
