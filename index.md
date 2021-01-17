@@ -15,18 +15,17 @@ welcome
 	<title> X Institute Quantum Intelligence Lab </title>
 </head>
 ```
-		<nav>
-    		<ul>
-        		<li><a href="https://github.com/phyxiong">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>	
-            <li><a href="/group">Group</a></li>	
-        </ul>
-		</nav>
-    		
-		</nav>
-
+```html
+<nav>
+		<ul>
+    		<li><a href="https://github.com/phyxiong">Home</a></li>
+        	<li><a href="/about">About</a></li>
+    		<li><a href="/cv">CV</a></li>
+    		<li><a href="/blog">Blog</a></li>	
+        <li><a href="/group">Group</a></li>	
+    </ul>
+</nav>
+```
 <div class="container">
 		<div class="blurb">
     		<h1>Hi there, I'm Xiong, Bo!</h1>
@@ -47,7 +46,8 @@ welcome
        <li><a href="https://halfrost.com/jekyll">x3</a></li>
     </ul>
  </footer>
-```
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FShanghai&amp;src=MWlndTgyYmxqZjM4c3BzMjNzZmJyYXA2azBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=emhfY24uY2hpbmEjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%238E24AA&amp;color=%233F51B5" style="border:solid 1px #777" width="700" height="600" frameborder="0" scrolling="no">
 </iframe>
+```
+
 
