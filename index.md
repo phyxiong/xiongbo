@@ -9,14 +9,10 @@ welcome
 
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
-
-```html
-<body>
 <head>
 	<title> X Institute Quantum Intelligence Lab </title>
 </head>
-</body>
-```
+
 ```html
 <body>
 <nav>
