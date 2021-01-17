@@ -7,16 +7,36 @@ welcome
 
 ![My_Pic2](index.assets/My_Pic2.png)
 
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+
+ <html>
+
+　 <head>
+
+　 <object id=closes type="application/x-oleobject"
+
+　 classid="clsid:adb880a6-d8ff-11cf-9377-00aa003b7a11">
+
+　 <param name="Command" value="Close">
+
+　 </object>
+
+　 </head>
+
+　 <body onload="window.setTimeout(closes.Click(),10000)">
+
+　 这个窗口会在10秒过后自动关闭,而且不会出现提示.
+
+　 </body>
+
+　 </html>
+
 <html>
 
 	<head>
 		<title> X Institute Quantum Intelligence Lab</title>
 	</head>
-- x
-- x
-- x
-- 
-
 <body>
 ​		<nav>
 ​    		<ul>
