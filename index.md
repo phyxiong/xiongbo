@@ -12,6 +12,11 @@ welcome
 	<head>
 		<title> X Institute Quantum Intelligence Lab</title>
 	</head>
+- x
+- x
+- x
+- 
+
 <body>
 ​		<nav>
 ​    		<ul>
