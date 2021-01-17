@@ -11,11 +11,14 @@ welcome
 <p>I'm hosted with GitHub Pages.</p>
 
 ```html
+<body>
 <head>
 	<title> X Institute Quantum Intelligence Lab </title>
 </head>
+</body>
 ```
 ```html
+<body>
 <nav>
 		<ul>
     		<li><a href="https://github.com/phyxiong">Home</a></li>
@@ -25,6 +28,7 @@ welcome
         <li><a href="/group">Group</a></li>	
     </ul>
 </nav>
+</body>
 ```
 <div class="container">
 		<div class="blurb">
