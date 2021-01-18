@@ -3,14 +3,12 @@
 </h1>
 
 <h2>
-<center><b><font color="#00dd00">X Institute Quantum Intelligence Lab</font></b></center>  
+<center><b>X Institute Quantum Intelligence Lab</b></center>  
 </h2>
 
-@NCU
+<font color="#00dd00">@NCU</font>
 
-<center><b>welcome</b></center>
-
-<font color="#dd0000">浅红色文字：</font><br /> 
+<center><b>welcome</b></center> 
 
 ![My_Pic2](index.assets/My_Pic2.png)
 
