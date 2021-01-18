@@ -3,28 +3,37 @@
 # X Institute Quantum Intelligence Lab
 
 @NCU
-welcome
+
+```html
+    <table width="100%"> 
+      <tr> 
+        <td align="center">表格中居中</td> 
+      </tr> 
+    </table> 
+```
+
+## welcome
 
 ![My_Pic2](index.assets/My_Pic2.png)
 
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
-<head>
-	<title> X Institute Quantum Intelligence Lab </title>
-</head>
+<h1>
+	X Institute Quantum Intelligence Lab
+</h1>
 
 ```html
-<body>
-<nav>
-		<ul>
+<div class="container">
+		<div class="blurb">
+<ul>
     		<li><a href="https://github.com/phyxiong">Home</a></li>
-        	<li><a href="/about">About</a></li>
+        <li><a href="/about">About</a></li>
     		<li><a href="/cv">CV</a></li>
     		<li><a href="/blog">Blog</a></li>	
         <li><a href="/group">Group</a></li>	
-    </ul>
-</nav>
-</body>
+</ul>
+</div><!-- /.blurb -->
+</div><!-- /.container -->
 ```
 <div class="container">
 		<div class="blurb">
