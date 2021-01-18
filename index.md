@@ -1,14 +1,16 @@
-# Xiong, Bo
+<h1>
+<center><b>Xiong, Bo</b></center>  
+</h1>
 
-# X Institute Quantum Intelligence Lab
+<h2>
+<center><b><font color="#00dd00">X Institute Quantum Intelligence Lab</font></b></center>  
+</h2>
 
 @NCU
 
-```html
-<center><b>welcome</b></center>   
-```
+<center><b>welcome</b></center>
 
-
+<font color="#dd0000">浅红色文字：</font><br /> 
 
 ![My_Pic2](index.assets/My_Pic2.png)
 
