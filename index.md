@@ -5,14 +5,10 @@
 @NCU
 
 ```html
-    <table width="100%"> 
-      <tr> 
-        <td align="center">表格中居中</td> 
-      </tr> 
-    </table> 
+<center><b>welcome</b></center>   
 ```
 
-## welcome
+
 
 ![My_Pic2](index.assets/My_Pic2.png)
 
