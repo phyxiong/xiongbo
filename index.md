@@ -21,7 +21,7 @@
 }
 </style>
 <div id="content">
-    <img src="./index.assets/gettyimages.jpg" class="ribbon"/>
+    <img src="./index.assets/gettyimages.jpg" class="ribbon" align ="topright"/>
     <div>some text...</div>
 </div>
 
