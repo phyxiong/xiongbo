@@ -10,7 +10,11 @@
 
 <center><b>welcome</b></center> 
 
-![My_Pic2](index.assets/My_Pic2.png)
+<div align="center">
+  <a href="x b">
+    <img src="./index.assets/My_Pic2.png">
+  </a>
+</div>
 
 <img src = "./index.assets/My_Pic2.png" style="float: center;" />
 
