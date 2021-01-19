@@ -7,21 +7,8 @@
 </h2>
 <font color="#006600">@NCU</font>
 
-<style type="text/css">
-#topright {
-    position: absolute;
-    right: 0;
-    top: 0;
-    display: block;
-    height: 125px;
-    width: 125px;
-    background: url(TRbanner.gif) no-repeat;
-    text-indent: -999em;
-    text-decoration: none;
-}
-</style>
 <div id="content">
-    <img src="./index.assets/gettyimages.jpg" class="ribbon" align ="topright"/>
+    <img src="./index.assets/gettyimages.jpg" class="ribbon" align ="left"/>
     <div>some text...</div>
 </div>
 
