@@ -7,7 +7,23 @@
 </h2>
 <font color="#006600">@NCU</font>
 
-<link rel="icon" href="./index.assets/gettyimages.jpg" type="image/x-icon" />
+<style type="text/css">
+#topright {
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: block;
+    height: 125px;
+    width: 125px;
+    background: url(TRbanner.gif) no-repeat;
+    text-indent: -999em;
+    text-decoration: none;
+}
+</style>
+<div id="content">
+    <img src="./index.assets/gettyimages.jpg" class="ribbon"/>
+    <div>some text...</div>
+</div>
 
 <center><b>welcome</b></center> 
 
