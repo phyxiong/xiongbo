@@ -12,7 +12,7 @@
 
 ![My_Pic2](index.assets/My_Pic2.png)
 
-<img src = "./index.assets/My_Pic2.png" align="center">
+<img src = "./index.assets/My_Pic2.png" style="float: center;" />
 
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
