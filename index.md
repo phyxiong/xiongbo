@@ -10,7 +10,7 @@
 
 <center><b>welcome</b></center> 
 
-![My_Pic2](index.assets/My_Pic2.png)
+<center>![My_Pic2](index.assets/My_Pic2.png)</center>
 
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
