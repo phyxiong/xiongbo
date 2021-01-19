@@ -5,18 +5,17 @@
 <h2>
 <center><b>X Institute Quantum Intelligence Lab</b></center>  
 </h2>
-
 <font color="#006600">@NCU</font>
+
+<link rel="icon" href="./index.assets/gettyimages.jpg" type="image/x-icon" />
 
 <center><b>welcome</b></center> 
 
 <div align="center">
-  <a href="x b">
+  <a href="https://phyxiong.github.io/main/">
     <img src="./index.assets/My_Pic2.png">
   </a>
 </div>
-
-<img src = "./index.assets/My_Pic2.png" style="float: center;" />
 
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
@@ -48,6 +47,8 @@
        <li><a href="https://halfrost.com/jekyll">x3</a></li>
     </ul>
  </footer>
+# Tensor Networks: Quantum Physics, Geometry and Applications
+
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FShanghai&amp;src=MWlndTgyYmxqZjM4c3BzMjNzZmJyYXA2azBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=emhfY24uY2hpbmEjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%238E24AA&amp;color=%233F51B5" style="border:solid 1px #777" width="700" height="600" frameborder="0" scrolling="no">
 </iframe>
