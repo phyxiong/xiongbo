@@ -10,11 +10,9 @@
 
 <center><b>welcome</b></center> 
 
-<center>![My_Pic2]</center>
+![My_Pic2](index.assets/My_Pic2.png)
 
-<div style="text-align: center; width: 500px; border: green solid 1px;">
-<img alt="" src="(index.assets/My_Pic2.png)" style="margin: 0 auto;" />
-</div>
+<img src = "./index.assets/My_Pic2.png" align="center">
 
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
