@@ -8,26 +8,25 @@
 <font color="#006600">@NCU</font>
 
 <div id="content">
-    <img src="./index.assets/gettyimages.jpg" width="300" height="200" class="ribbon" align ="left"/>
+    <img src="../index.assets/gettyimages.jpg" width="300" height="200" class="ribbon" align ="left"/>
     <div>some text...</div>
 </div>
 
-
-
-
-
-
-
-
 <center><b>welcome</b></center> 
+
+
+
+
+
+
 
 <div align="center">
   <a href="https://phyxiong.github.io/main/">
-    <img src="./index.assets/My_Pic2.png">
+    <img src="../index.assets/My_Pic2.png">
   </a>
 </div>
 
-<h1>Hello World</h1>
+<h1>Quantum Machine Learning</h1>
 <p>I'm hosted with GitHub Pages.</p>
 
 <div class="container">
@@ -58,7 +57,3 @@
     </ul>
  </footer>
 # Tensor Networks: Quantum Physics, Geometry and Applications
-
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FShanghai&amp;src=MWlndTgyYmxqZjM4c3BzMjNzZmJyYXA2azBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=emhfY24uY2hpbmEjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%238E24AA&amp;color=%233F51B5" style="border:solid 1px #777" width="700" height="600" frameborder="0" scrolling="no">
-</iframe>
