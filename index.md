@@ -38,14 +38,15 @@
         </p>
 		</div><!-- /.blurb -->
 </div><!-- /.container -->
-
 <ul>
   <li><a href="https://github.com/phyxiong">Home</a></li>
   <li><a href="/about">About</a></li>
-  <li><a href="/cv">CV</a></li>
-  <li><a href="/blog">Blog</a></li>
-  <li><a href="/group">Group</a></li>
+  <li><a href="./cv">CV</a></li>
+  <li><a href="./blog">Blog</a></li>
+  <li><a href="./group">Group</a></li>
+  <li><a href="./Quantum Machine Learing">QML</a></li>
 </ul>
+
 
 <footer>
 		<ul>
