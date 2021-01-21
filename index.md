@@ -44,7 +44,7 @@
   <li><a href="./cv">CV</a></li>
   <li><a href="./blog">Blog</a></li>
   <li><a href="./group">Group</a></li>
-  <li><a href="./QML.md">QML</a></li>
+  <li><a href="./QML">QML</a></li>
 </ul>
 
 
