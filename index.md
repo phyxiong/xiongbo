@@ -26,7 +26,6 @@
     <img src="./index.assets/My_Pic2.png">
   </a>
 </div>
-
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
 
